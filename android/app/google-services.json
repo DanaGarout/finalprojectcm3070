@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421309074237",
+    "project_id": "ultratask-project",
+    "storage_bucket": "ultratask-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421309074237:android:23b68cf77a93c9c28a1354",
+        "android_client_info": {
+          "package_name": "com.example.ultratasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7zmuIakeXofzekM1NPf5aZGdnd3vEDlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
